@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\source\repos\OOP\Esquierdo_SimpleInheritance\Esquierdo_SimpleInheritance\bin\Debug\Esquierdo_SimpleInheritance.exe.config
+C:\Users\ACT-STUDENT\source\repos\OOP\Esquierdo_SimpleInheritance\Esquierdo_SimpleInheritance\bin\Debug\Esquierdo_SimpleInheritance.exe
+C:\Users\ACT-STUDENT\source\repos\OOP\Esquierdo_SimpleInheritance\Esquierdo_SimpleInheritance\bin\Debug\Esquierdo_SimpleInheritance.pdb
+C:\Users\ACT-STUDENT\source\repos\OOP\Esquierdo_SimpleInheritance\Esquierdo_SimpleInheritance\obj\Debug\Esquierdo_SimpleInheritance.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\OOP\Esquierdo_SimpleInheritance\Esquierdo_SimpleInheritance\obj\Debug\Esquierdo_SimpleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\OOP\Esquierdo_SimpleInheritance\Esquierdo_SimpleInheritance\obj\Debug\Esquierdo_SimpleInheritance.exe
+C:\Users\ACT-STUDENT\source\repos\OOP\Esquierdo_SimpleInheritance\Esquierdo_SimpleInheritance\obj\Debug\Esquierdo_SimpleInheritance.pdb
